@@ -1,0 +1,8 @@
+
+image_path	split	person_id
+gallery/person_001/person1.jfif	GALLERY	person_001
+gallery/person_002/person2.jfif	GALLERY	person_002
+gallery/person_003/person3.jfif	GALLERY	person_003
+probes/person_001/images (1).jfif	PROBE	person_001
+probes/person_002/images.jfif	PROBE	person_002
+unregistered/person_004/images (1).jfif	UNREGISTERED	person_004

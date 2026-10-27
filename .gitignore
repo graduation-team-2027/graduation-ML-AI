@@ -1,0 +1,29 @@
+
+# Python virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Face crops and extracted face images
+face_crops/
+
+# Generated tracking and face analysis outputs
+tracked_output.mp4
+actor_gallery_results.csv
+actor_gallery_test_results.csv
+face_quality_results.csv
+tracking_events.csv
+tracking_results.csv
+# Face images and test gallery data
+face_crops/
+actor_gallery_test_package/

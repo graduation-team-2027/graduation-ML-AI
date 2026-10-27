@@ -1,0 +1,8 @@
+﻿image,split,source_person,predicted_identity,result,detection_status,detection_confidence,best_similarity,match_margin
+D:\CCTV-Based-Smoking-and-Vaping-Detection\actor_gallery_test_package\probes\person_001\images (1).jfif,probes,person_001,person_001,CORRECT_MATCH,OK,0.9487718939781189,0.5892603397369385,0.42352166771888733
+D:\CCTV-Based-Smoking-and-Vaping-Detection\actor_gallery_test_package\probes\person_001\quality_test\blurry_face.jfif,probes,person_001,UNKNOWN,FALSE_REJECT,OK,0.6836439967155457,0.03616848587989807,0.060543451458215714
+D:\CCTV-Based-Smoking-and-Vaping-Detection\actor_gallery_test_package\probes\person_001\quality_test\halfblurry.jfif,probes,person_001,UNKNOWN,FALSE_REJECT,OK,0.6987296342849731,0.1710733026266098,0.08277435600757599
+D:\CCTV-Based-Smoking-and-Vaping-Detection\actor_gallery_test_package\probes\person_002\images.jfif,probes,person_002,person_002,CORRECT_MATCH,OK,0.9473303556442261,0.4869201183319092,0.25963954627513885
+D:\CCTV-Based-Smoking-and-Vaping-Detection\actor_gallery_test_package\probes\person_003\images (3).jfif,probes,person_003,person_003,CORRECT_MATCH,OK,0.925695538520813,0.4679282307624817,0.4087056927382946
+D:\CCTV-Based-Smoking-and-Vaping-Detection\actor_gallery_test_package\unregistered\person_004\images (1).jfif,unregistered,,UNKNOWN,CORRECT_REJECTION,OK,0.9482600092887878,0.2564128637313843,0.027086764574050903
+D:\CCTV-Based-Smoking-and-Vaping-Detection\actor_gallery_test_package\unregistered\person_005\images (2).jfif,unregistered,,UNKNOWN,CORRECT_REJECTION,OK,0.9502825140953064,0.3378920257091522,0.12527044117450714

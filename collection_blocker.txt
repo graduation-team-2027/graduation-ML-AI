@@ -1,0 +1,9 @@
+COLLECTION BLOCKER: real-person face recognition was not run.
+
+Reason(s):
+- CONSENT_CONFIRMED is False. Confirm adult status and informed consent for all enrolled volunteers first.
+- SEPARATE_SESSION_PROBES_CONFIRMED is False. Probe images must be captured in a separate session from gallery images.
+
+Current action: synthetic non-face fixtures only. No identity result is claimed.
+Next steps: obtain consent from 3-5 adult volunteers; store gallery images by generic ID; capture probes in a separate session; add 1-2 unregistered volunteer IDs; then set both confirmation flags to True in actor_gallery_test.py.
+Do not commit real face images, face embeddings, or personally identifying results to a public repository.

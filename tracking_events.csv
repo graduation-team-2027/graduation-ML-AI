@@ -1,0 +1,766 @@
+﻿clip_id,frame,time_seconds,track_id,event,details
+testvedio,1,0.0,1,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,1,0.0,1,possible_entry_from_border,Track first appeared near a video border.
+testvedio,1,0.0,2,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,1,0.0,3,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,1,0.0,3,possible_entry_from_border,Track first appeared near a video border.
+testvedio,1,0.0,4,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,1,0.0,4,possible_entry_from_border,Track first appeared near a video border.
+testvedio,1,0.0,5,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,1,0.0,6,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,1,0.0,7,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,1,0.0,7,possible_entry_from_border,Track first appeared near a video border.
+testvedio,1,0.0,8,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,1,0.0,9,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,1,0.0,4,overlap_detected,Other track: 7. Overlapping person boxes; IoU=0.314. Face-to-track association may be ambiguous.
+testvedio,1,0.0,7,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.314. Face-to-track association may be ambiguous.
+testvedio,1,0.0,4,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.148. Face-to-track association may be ambiguous.
+testvedio,1,0.0,8,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.148. Face-to-track association may be ambiguous.
+testvedio,1,0.0,6,overlap_detected,Other track: 9. Overlapping person boxes; IoU=0.286. Face-to-track association may be ambiguous.
+testvedio,1,0.0,9,overlap_detected,Other track: 6. Overlapping person boxes; IoU=0.286. Face-to-track association may be ambiguous.
+testvedio,1,0.0,8,overlap_detected,Other track: 9. Overlapping person boxes; IoU=0.309. Face-to-track association may be ambiguous.
+testvedio,1,0.0,9,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.309. Face-to-track association may be ambiguous.
+testvedio,3,0.08,10,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,3,0.08,10,possible_entry_from_border,Track first appeared near a video border.
+testvedio,6,0.2,11,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,6,0.2,11,possible_entry_from_border,Track first appeared near a video border.
+testvedio,6,0.2,4,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.162. Face-to-track association may be ambiguous.
+testvedio,6,0.2,11,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.162. Face-to-track association may be ambiguous.
+testvedio,6,0.2,7,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.574. Face-to-track association may be ambiguous.
+testvedio,6,0.2,11,overlap_detected,Other track: 7. Overlapping person boxes; IoU=0.574. Face-to-track association may be ambiguous.
+testvedio,7,0.24,12,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,7,0.24,3,overlap_detected,Other track: 12. Overlapping person boxes; IoU=0.193. Face-to-track association may be ambiguous.
+testvedio,7,0.24,12,overlap_detected,Other track: 3. Overlapping person boxes; IoU=0.193. Face-to-track association may be ambiguous.
+testvedio,16,0.6,4,overlap_detected,Other track: 7. Overlapping person boxes; IoU=0.260. Face-to-track association may be ambiguous.
+testvedio,16,0.6,7,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.260. Face-to-track association may be ambiguous.
+testvedio,16,0.6,4,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.138. Face-to-track association may be ambiguous.
+testvedio,16,0.6,8,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.138. Face-to-track association may be ambiguous.
+testvedio,22,0.84,11,track_lost,No detection for 15 consecutive frames.
+testvedio,22,0.84,11,possible_exit_from_border,Track was last seen near a video border; exit is not confirmed.
+testvedio,22,0.84,3,overlap_detected,Other track: 5. Overlapping person boxes; IoU=0.114. Face-to-track association may be ambiguous.
+testvedio,22,0.84,5,overlap_detected,Other track: 3. Overlapping person boxes; IoU=0.114. Face-to-track association may be ambiguous.
+testvedio,23,0.88,15,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,23,0.88,11,track_reappeared_after_gap,Track returned after 15 missing frames.
+testvedio,23,0.88,3,overlap_detected,Other track: 15. Overlapping person boxes; IoU=0.113. Face-to-track association may be ambiguous.
+testvedio,23,0.88,15,overlap_detected,Other track: 3. Overlapping person boxes; IoU=0.113. Face-to-track association may be ambiguous.
+testvedio,23,0.88,4,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.102. Face-to-track association may be ambiguous.
+testvedio,23,0.88,11,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.102. Face-to-track association may be ambiguous.
+testvedio,23,0.88,7,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.632. Face-to-track association may be ambiguous.
+testvedio,23,0.88,11,overlap_detected,Other track: 7. Overlapping person boxes; IoU=0.632. Face-to-track association may be ambiguous.
+testvedio,23,0.88,12,overlap_detected,Other track: 15. Overlapping person boxes; IoU=0.184. Face-to-track association may be ambiguous.
+testvedio,23,0.88,15,overlap_detected,Other track: 12. Overlapping person boxes; IoU=0.184. Face-to-track association may be ambiguous.
+testvedio,24,0.92,16,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,24,0.92,16,possible_entry_from_border,Track first appeared near a video border.
+testvedio,24,0.92,10,overlap_detected,Other track: 12. Overlapping person boxes; IoU=0.122. Face-to-track association may be ambiguous.
+testvedio,24,0.92,12,overlap_detected,Other track: 10. Overlapping person boxes; IoU=0.122. Face-to-track association may be ambiguous.
+testvedio,24,0.92,10,overlap_detected,Other track: 16. Overlapping person boxes; IoU=0.237. Face-to-track association may be ambiguous.
+testvedio,24,0.92,16,overlap_detected,Other track: 10. Overlapping person boxes; IoU=0.237. Face-to-track association may be ambiguous.
+testvedio,25,0.96,9,track_lost,No detection for 15 consecutive frames.
+testvedio,31,1.2,20,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,31,1.2,20,possible_entry_from_border,Track first appeared near a video border.
+testvedio,31,1.2,4,overlap_detected,Other track: 7. Overlapping person boxes; IoU=0.123. Face-to-track association may be ambiguous.
+testvedio,31,1.2,7,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.123. Face-to-track association may be ambiguous.
+testvedio,31,1.2,4,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.222. Face-to-track association may be ambiguous.
+testvedio,31,1.2,8,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.222. Face-to-track association may be ambiguous.
+testvedio,31,1.2,10,overlap_detected,Other track: 20. Overlapping person boxes; IoU=0.385. Face-to-track association may be ambiguous.
+testvedio,31,1.2,20,overlap_detected,Other track: 10. Overlapping person boxes; IoU=0.385. Face-to-track association may be ambiguous.
+testvedio,31,1.2,12,overlap_detected,Other track: 20. Overlapping person boxes; IoU=0.269. Face-to-track association may be ambiguous.
+testvedio,31,1.2,20,overlap_detected,Other track: 12. Overlapping person boxes; IoU=0.269. Face-to-track association may be ambiguous.
+testvedio,35,1.36,21,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,35,1.36,5,overlap_detected,Other track: 21. Overlapping person boxes; IoU=0.468. Face-to-track association may be ambiguous.
+testvedio,35,1.36,21,overlap_detected,Other track: 5. Overlapping person boxes; IoU=0.468. Face-to-track association may be ambiguous.
+testvedio,37,1.44,3,overlap_detected,Other track: 5. Overlapping person boxes; IoU=0.221. Face-to-track association may be ambiguous.
+testvedio,37,1.44,5,overlap_detected,Other track: 3. Overlapping person boxes; IoU=0.221. Face-to-track association may be ambiguous.
+testvedio,38,1.48,10,track_reappeared_after_short_gap,Track returned after 6 missing frames.
+testvedio,38,1.48,11,track_lost,No detection for 15 consecutive frames.
+testvedio,38,1.48,11,possible_exit_from_border,Track was last seen near a video border; exit is not confirmed.
+testvedio,38,1.48,12,overlap_detected,Other track: 15. Overlapping person boxes; IoU=0.244. Face-to-track association may be ambiguous.
+testvedio,38,1.48,15,overlap_detected,Other track: 12. Overlapping person boxes; IoU=0.244. Face-to-track association may be ambiguous.
+testvedio,41,1.6,16,track_lost,No detection for 15 consecutive frames.
+testvedio,41,1.6,16,possible_exit_from_border,Track was last seen near a video border; exit is not confirmed.
+testvedio,46,1.8,4,overlap_detected,Other track: 7. Overlapping person boxes; IoU=0.130. Face-to-track association may be ambiguous.
+testvedio,46,1.8,7,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.130. Face-to-track association may be ambiguous.
+testvedio,46,1.8,4,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.251. Face-to-track association may be ambiguous.
+testvedio,46,1.8,8,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.251. Face-to-track association may be ambiguous.
+testvedio,46,1.8,20,overlap_detected,Other track: 10. Overlapping person boxes; IoU=0.120. Face-to-track association may be ambiguous.
+testvedio,46,1.8,10,overlap_detected,Other track: 20. Overlapping person boxes; IoU=0.120. Face-to-track association may be ambiguous.
+testvedio,48,1.88,29,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,48,1.88,1,overlap_detected,Other track: 29. Overlapping person boxes; IoU=0.273. Face-to-track association may be ambiguous.
+testvedio,48,1.88,29,overlap_detected,Other track: 1. Overlapping person boxes; IoU=0.273. Face-to-track association may be ambiguous.
+testvedio,52,2.04,11,track_reappeared_after_gap,Track returned after 28 missing frames.
+testvedio,52,2.04,7,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.535. Face-to-track association may be ambiguous.
+testvedio,52,2.04,11,overlap_detected,Other track: 7. Overlapping person boxes; IoU=0.535. Face-to-track association may be ambiguous.
+testvedio,54,2.12,21,track_lost,No detection for 15 consecutive frames.
+testvedio,54,2.12,12,overlap_detected,Other track: 20. Overlapping person boxes; IoU=0.128. Face-to-track association may be ambiguous.
+testvedio,54,2.12,20,overlap_detected,Other track: 12. Overlapping person boxes; IoU=0.128. Face-to-track association may be ambiguous.
+testvedio,59,2.32,15,track_lost,No detection for 15 consecutive frames.
+testvedio,61,2.4,42,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,61,2.4,3,overlap_detected,Other track: 42. Overlapping person boxes; IoU=0.299. Face-to-track association may be ambiguous.
+testvedio,61,2.4,42,overlap_detected,Other track: 3. Overlapping person boxes; IoU=0.299. Face-to-track association may be ambiguous.
+testvedio,61,2.4,4,overlap_detected,Other track: 7. Overlapping person boxes; IoU=0.183. Face-to-track association may be ambiguous.
+testvedio,61,2.4,7,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.183. Face-to-track association may be ambiguous.
+testvedio,61,2.4,4,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.161. Face-to-track association may be ambiguous.
+testvedio,61,2.4,8,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.161. Face-to-track association may be ambiguous.
+testvedio,61,2.4,12,overlap_detected,Other track: 42. Overlapping person boxes; IoU=0.146. Face-to-track association may be ambiguous.
+testvedio,61,2.4,42,overlap_detected,Other track: 12. Overlapping person boxes; IoU=0.146. Face-to-track association may be ambiguous.
+testvedio,62,2.44,5,track_lost,No detection for 15 consecutive frames.
+testvedio,62,2.44,5,possible_exit_from_border,Track was last seen near a video border; exit is not confirmed.
+testvedio,63,2.48,1,overlap_detected,Other track: 29. Overlapping person boxes; IoU=0.221. Face-to-track association may be ambiguous.
+testvedio,63,2.48,29,overlap_detected,Other track: 1. Overlapping person boxes; IoU=0.221. Face-to-track association may be ambiguous.
+testvedio,63,2.48,4,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.106. Face-to-track association may be ambiguous.
+testvedio,63,2.48,11,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.106. Face-to-track association may be ambiguous.
+testvedio,64,2.52,6,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.109. Face-to-track association may be ambiguous.
+testvedio,64,2.52,8,overlap_detected,Other track: 6. Overlapping person boxes; IoU=0.109. Face-to-track association may be ambiguous.
+testvedio,69,2.72,12,overlap_detected,Other track: 20. Overlapping person boxes; IoU=0.507. Face-to-track association may be ambiguous.
+testvedio,69,2.72,20,overlap_detected,Other track: 12. Overlapping person boxes; IoU=0.507. Face-to-track association may be ambiguous.
+testvedio,70,2.76,1,overlap_detected,Other track: 3. Overlapping person boxes; IoU=0.104. Face-to-track association may be ambiguous.
+testvedio,70,2.76,3,overlap_detected,Other track: 1. Overlapping person boxes; IoU=0.104. Face-to-track association may be ambiguous.
+testvedio,76,3.0,3,overlap_detected,Other track: 42. Overlapping person boxes; IoU=0.127. Face-to-track association may be ambiguous.
+testvedio,76,3.0,42,overlap_detected,Other track: 3. Overlapping person boxes; IoU=0.127. Face-to-track association may be ambiguous.
+testvedio,76,3.0,12,overlap_detected,Other track: 42. Overlapping person boxes; IoU=0.195. Face-to-track association may be ambiguous.
+testvedio,76,3.0,42,overlap_detected,Other track: 12. Overlapping person boxes; IoU=0.195. Face-to-track association may be ambiguous.
+testvedio,78,3.08,1,overlap_detected,Other track: 29. Overlapping person boxes; IoU=0.302. Face-to-track association may be ambiguous.
+testvedio,78,3.08,29,overlap_detected,Other track: 1. Overlapping person boxes; IoU=0.302. Face-to-track association may be ambiguous.
+testvedio,78,3.08,4,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.153. Face-to-track association may be ambiguous.
+testvedio,78,3.08,11,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.153. Face-to-track association may be ambiguous.
+testvedio,79,3.12,7,track_lost,No detection for 15 consecutive frames.
+testvedio,79,3.12,7,possible_exit_from_border,Track was last seen near a video border; exit is not confirmed.
+testvedio,79,3.12,4,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.104. Face-to-track association may be ambiguous.
+testvedio,79,3.12,8,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.104. Face-to-track association may be ambiguous.
+testvedio,79,3.12,6,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.104. Face-to-track association may be ambiguous.
+testvedio,79,3.12,8,overlap_detected,Other track: 6. Overlapping person boxes; IoU=0.104. Face-to-track association may be ambiguous.
+testvedio,84,3.32,20,track_lost,No detection for 15 consecutive frames.
+testvedio,85,3.36,52,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,85,3.36,52,possible_entry_from_border,Track first appeared near a video border.
+testvedio,85,3.36,1,overlap_detected,Other track: 3. Overlapping person boxes; IoU=0.183. Face-to-track association may be ambiguous.
+testvedio,85,3.36,3,overlap_detected,Other track: 1. Overlapping person boxes; IoU=0.183. Face-to-track association may be ambiguous.
+testvedio,90,3.56,56,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,90,3.56,12,overlap_detected,Other track: 10. Overlapping person boxes; IoU=0.102. Face-to-track association may be ambiguous.
+testvedio,90,3.56,10,overlap_detected,Other track: 12. Overlapping person boxes; IoU=0.102. Face-to-track association may be ambiguous.
+testvedio,91,3.6,12,overlap_detected,Other track: 42. Overlapping person boxes; IoU=0.208. Face-to-track association may be ambiguous.
+testvedio,91,3.6,42,overlap_detected,Other track: 12. Overlapping person boxes; IoU=0.208. Face-to-track association may be ambiguous.
+testvedio,93,3.68,1,overlap_detected,Other track: 29. Overlapping person boxes; IoU=0.287. Face-to-track association may be ambiguous.
+testvedio,93,3.68,29,overlap_detected,Other track: 1. Overlapping person boxes; IoU=0.287. Face-to-track association may be ambiguous.
+testvedio,93,3.68,4,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.115. Face-to-track association may be ambiguous.
+testvedio,93,3.68,11,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.115. Face-to-track association may be ambiguous.
+testvedio,94,3.72,4,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.187. Face-to-track association may be ambiguous.
+testvedio,94,3.72,8,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.187. Face-to-track association may be ambiguous.
+testvedio,100,3.96,1,overlap_detected,Other track: 3. Overlapping person boxes; IoU=0.372. Face-to-track association may be ambiguous.
+testvedio,100,3.96,3,overlap_detected,Other track: 1. Overlapping person boxes; IoU=0.372. Face-to-track association may be ambiguous.
+testvedio,101,4.0,10,overlap_detected,Other track: 42. Overlapping person boxes; IoU=0.131. Face-to-track association may be ambiguous.
+testvedio,101,4.0,42,overlap_detected,Other track: 10. Overlapping person boxes; IoU=0.131. Face-to-track association may be ambiguous.
+testvedio,102,4.04,63,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,102,4.04,3,overlap_detected,Other track: 63. Overlapping person boxes; IoU=0.165. Face-to-track association may be ambiguous.
+testvedio,102,4.04,63,overlap_detected,Other track: 3. Overlapping person boxes; IoU=0.165. Face-to-track association may be ambiguous.
+testvedio,102,4.04,42,overlap_detected,Other track: 63. Overlapping person boxes; IoU=0.195. Face-to-track association may be ambiguous.
+testvedio,102,4.04,63,overlap_detected,Other track: 42. Overlapping person boxes; IoU=0.195. Face-to-track association may be ambiguous.
+testvedio,105,4.16,65,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,105,4.16,3,overlap_detected,Other track: 65. Overlapping person boxes; IoU=0.119. Face-to-track association may be ambiguous.
+testvedio,105,4.16,65,overlap_detected,Other track: 3. Overlapping person boxes; IoU=0.119. Face-to-track association may be ambiguous.
+testvedio,105,4.16,12,overlap_detected,Other track: 10. Overlapping person boxes; IoU=0.563. Face-to-track association may be ambiguous.
+testvedio,105,4.16,10,overlap_detected,Other track: 12. Overlapping person boxes; IoU=0.563. Face-to-track association may be ambiguous.
+testvedio,105,4.16,63,overlap_detected,Other track: 65. Overlapping person boxes; IoU=0.606. Face-to-track association may be ambiguous.
+testvedio,105,4.16,65,overlap_detected,Other track: 63. Overlapping person boxes; IoU=0.606. Face-to-track association may be ambiguous.
+testvedio,106,4.2,3,overlap_detected,Other track: 29. Overlapping person boxes; IoU=0.125. Face-to-track association may be ambiguous.
+testvedio,106,4.2,29,overlap_detected,Other track: 3. Overlapping person boxes; IoU=0.125. Face-to-track association may be ambiguous.
+testvedio,106,4.2,12,overlap_detected,Other track: 42. Overlapping person boxes; IoU=0.191. Face-to-track association may be ambiguous.
+testvedio,106,4.2,42,overlap_detected,Other track: 12. Overlapping person boxes; IoU=0.191. Face-to-track association may be ambiguous.
+testvedio,108,4.28,1,overlap_detected,Other track: 29. Overlapping person boxes; IoU=0.489. Face-to-track association may be ambiguous.
+testvedio,108,4.28,29,overlap_detected,Other track: 1. Overlapping person boxes; IoU=0.489. Face-to-track association may be ambiguous.
+testvedio,108,4.28,4,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.108. Face-to-track association may be ambiguous.
+testvedio,108,4.28,11,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.108. Face-to-track association may be ambiguous.
+testvedio,109,4.32,4,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.141. Face-to-track association may be ambiguous.
+testvedio,109,4.32,8,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.141. Face-to-track association may be ambiguous.
+testvedio,112,4.44,6,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.108. Face-to-track association may be ambiguous.
+testvedio,112,4.44,8,overlap_detected,Other track: 6. Overlapping person boxes; IoU=0.108. Face-to-track association may be ambiguous.
+testvedio,121,4.8,63,track_lost,No detection for 15 consecutive frames.
+testvedio,123,4.88,4,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.175. Face-to-track association may be ambiguous.
+testvedio,123,4.88,11,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.175. Face-to-track association may be ambiguous.
+testvedio,124,4.92,12,track_lost,No detection for 15 consecutive frames.
+testvedio,125,4.96,78,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,125,4.96,78,possible_entry_from_border,Track first appeared near a video border.
+testvedio,125,4.96,3,overlap_detected,Other track: 29. Overlapping person boxes; IoU=0.101. Face-to-track association may be ambiguous.
+testvedio,125,4.96,29,overlap_detected,Other track: 3. Overlapping person boxes; IoU=0.101. Face-to-track association may be ambiguous.
+testvedio,125,4.96,3,overlap_detected,Other track: 78. Overlapping person boxes; IoU=0.325. Face-to-track association may be ambiguous.
+testvedio,125,4.96,78,overlap_detected,Other track: 3. Overlapping person boxes; IoU=0.325. Face-to-track association may be ambiguous.
+testvedio,125,4.96,65,overlap_detected,Other track: 78. Overlapping person boxes; IoU=0.111. Face-to-track association may be ambiguous.
+testvedio,125,4.96,78,overlap_detected,Other track: 65. Overlapping person boxes; IoU=0.111. Face-to-track association may be ambiguous.
+testvedio,126,5.0,79,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,126,5.0,1,track_lost,No detection for 15 consecutive frames.
+testvedio,126,5.0,42,overlap_detected,Other track: 79. Overlapping person boxes; IoU=0.212. Face-to-track association may be ambiguous.
+testvedio,126,5.0,79,overlap_detected,Other track: 42. Overlapping person boxes; IoU=0.212. Face-to-track association may be ambiguous.
+testvedio,126,5.0,65,overlap_detected,Other track: 79. Overlapping person boxes; IoU=0.175. Face-to-track association may be ambiguous.
+testvedio,126,5.0,79,overlap_detected,Other track: 65. Overlapping person boxes; IoU=0.175. Face-to-track association may be ambiguous.
+testvedio,127,5.04,6,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.190. Face-to-track association may be ambiguous.
+testvedio,127,5.04,8,overlap_detected,Other track: 6. Overlapping person boxes; IoU=0.190. Face-to-track association may be ambiguous.
+testvedio,129,5.12,10,track_lost,No detection for 15 consecutive frames.
+testvedio,129,5.12,42,overlap_detected,Other track: 65. Overlapping person boxes; IoU=0.129. Face-to-track association may be ambiguous.
+testvedio,129,5.12,65,overlap_detected,Other track: 42. Overlapping person boxes; IoU=0.129. Face-to-track association may be ambiguous.
+testvedio,131,5.2,56,track_lost,No detection for 15 consecutive frames.
+testvedio,134,5.32,42,overlap_detected,Other track: 52. Overlapping person boxes; IoU=0.103. Face-to-track association may be ambiguous.
+testvedio,134,5.32,52,overlap_detected,Other track: 42. Overlapping person boxes; IoU=0.103. Face-to-track association may be ambiguous.
+testvedio,138,5.48,4,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.144. Face-to-track association may be ambiguous.
+testvedio,138,5.48,11,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.144. Face-to-track association may be ambiguous.
+testvedio,140,5.56,3,overlap_detected,Other track: 78. Overlapping person boxes; IoU=0.134. Face-to-track association may be ambiguous.
+testvedio,140,5.56,78,overlap_detected,Other track: 3. Overlapping person boxes; IoU=0.134. Face-to-track association may be ambiguous.
+testvedio,140,5.56,65,overlap_detected,Other track: 78. Overlapping person boxes; IoU=0.120. Face-to-track association may be ambiguous.
+testvedio,140,5.56,78,overlap_detected,Other track: 65. Overlapping person boxes; IoU=0.120. Face-to-track association may be ambiguous.
+testvedio,142,5.64,4,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.102. Face-to-track association may be ambiguous.
+testvedio,142,5.64,8,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.102. Face-to-track association may be ambiguous.
+testvedio,142,5.64,6,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.207. Face-to-track association may be ambiguous.
+testvedio,142,5.64,8,overlap_detected,Other track: 6. Overlapping person boxes; IoU=0.207. Face-to-track association may be ambiguous.
+testvedio,144,5.72,79,track_lost,No detection for 15 consecutive frames.
+testvedio,144,5.72,42,overlap_detected,Other track: 65. Overlapping person boxes; IoU=0.121. Face-to-track association may be ambiguous.
+testvedio,144,5.72,65,overlap_detected,Other track: 42. Overlapping person boxes; IoU=0.121. Face-to-track association may be ambiguous.
+testvedio,147,5.84,83,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,147,5.84,79,track_reappeared_after_gap,Track returned after 17 missing frames.
+testvedio,147,5.84,6,overlap_detected,Other track: 83. Overlapping person boxes; IoU=0.640. Face-to-track association may be ambiguous.
+testvedio,147,5.84,83,overlap_detected,Other track: 6. Overlapping person boxes; IoU=0.640. Face-to-track association may be ambiguous.
+testvedio,147,5.84,8,overlap_detected,Other track: 83. Overlapping person boxes; IoU=0.140. Face-to-track association may be ambiguous.
+testvedio,147,5.84,83,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.140. Face-to-track association may be ambiguous.
+testvedio,147,5.84,42,overlap_detected,Other track: 79. Overlapping person boxes; IoU=0.305. Face-to-track association may be ambiguous.
+testvedio,147,5.84,79,overlap_detected,Other track: 42. Overlapping person boxes; IoU=0.305. Face-to-track association may be ambiguous.
+testvedio,147,5.84,65,overlap_detected,Other track: 79. Overlapping person boxes; IoU=0.546. Face-to-track association may be ambiguous.
+testvedio,147,5.84,79,overlap_detected,Other track: 65. Overlapping person boxes; IoU=0.546. Face-to-track association may be ambiguous.
+testvedio,149,5.92,42,overlap_detected,Other track: 52. Overlapping person boxes; IoU=0.161. Face-to-track association may be ambiguous.
+testvedio,149,5.92,52,overlap_detected,Other track: 42. Overlapping person boxes; IoU=0.161. Face-to-track association may be ambiguous.
+testvedio,153,6.08,4,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.132. Face-to-track association may be ambiguous.
+testvedio,153,6.08,11,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.132. Face-to-track association may be ambiguous.
+testvedio,155,6.16,65,overlap_detected,Other track: 78. Overlapping person boxes; IoU=0.112. Face-to-track association may be ambiguous.
+testvedio,155,6.16,78,overlap_detected,Other track: 65. Overlapping person boxes; IoU=0.112. Face-to-track association may be ambiguous.
+testvedio,157,6.24,4,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.117. Face-to-track association may be ambiguous.
+testvedio,157,6.24,8,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.117. Face-to-track association may be ambiguous.
+testvedio,159,6.32,42,overlap_detected,Other track: 65. Overlapping person boxes; IoU=0.185. Face-to-track association may be ambiguous.
+testvedio,159,6.32,65,overlap_detected,Other track: 42. Overlapping person boxes; IoU=0.185. Face-to-track association may be ambiguous.
+testvedio,161,6.4,83,track_reappeared_after_short_gap,Track returned after 5 missing frames.
+testvedio,162,6.44,79,track_lost,No detection for 15 consecutive frames.
+testvedio,162,6.44,8,overlap_detected,Other track: 83. Overlapping person boxes; IoU=0.154. Face-to-track association may be ambiguous.
+testvedio,162,6.44,83,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.154. Face-to-track association may be ambiguous.
+testvedio,164,6.52,89,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,164,6.52,89,possible_entry_from_border,Track first appeared near a video border.
+testvedio,164,6.52,11,overlap_detected,Other track: 89. Overlapping person boxes; IoU=0.290. Face-to-track association may be ambiguous.
+testvedio,164,6.52,89,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.290. Face-to-track association may be ambiguous.
+testvedio,168,6.68,4,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.156. Face-to-track association may be ambiguous.
+testvedio,168,6.68,11,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.156. Face-to-track association may be ambiguous.
+testvedio,169,6.72,6,track_lost,No detection for 15 consecutive frames.
+testvedio,170,6.76,65,overlap_detected,Other track: 78. Overlapping person boxes; IoU=0.139. Face-to-track association may be ambiguous.
+testvedio,170,6.76,78,overlap_detected,Other track: 65. Overlapping person boxes; IoU=0.139. Face-to-track association may be ambiguous.
+testvedio,171,6.8,2,overlap_detected,Other track: 29. Overlapping person boxes; IoU=0.101. Face-to-track association may be ambiguous.
+testvedio,171,6.8,29,overlap_detected,Other track: 2. Overlapping person boxes; IoU=0.101. Face-to-track association may be ambiguous.
+testvedio,176,7.0,42,track_lost,No detection for 15 consecutive frames.
+testvedio,179,7.12,95,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,179,7.12,83,track_reappeared_after_short_gap,Track returned after 12 missing frames.
+testvedio,179,7.12,2,overlap_detected,Other track: 83. Overlapping person boxes; IoU=0.185. Face-to-track association may be ambiguous.
+testvedio,179,7.12,83,overlap_detected,Other track: 2. Overlapping person boxes; IoU=0.185. Face-to-track association may be ambiguous.
+testvedio,179,7.12,3,overlap_detected,Other track: 95. Overlapping person boxes; IoU=0.216. Face-to-track association may be ambiguous.
+testvedio,179,7.12,95,overlap_detected,Other track: 3. Overlapping person boxes; IoU=0.216. Face-to-track association may be ambiguous.
+testvedio,179,7.12,8,overlap_detected,Other track: 83. Overlapping person boxes; IoU=0.238. Face-to-track association may be ambiguous.
+testvedio,179,7.12,83,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.238. Face-to-track association may be ambiguous.
+testvedio,181,7.2,97,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,181,7.2,3,overlap_detected,Other track: 97. Overlapping person boxes; IoU=0.196. Face-to-track association may be ambiguous.
+testvedio,181,7.2,97,overlap_detected,Other track: 3. Overlapping person boxes; IoU=0.196. Face-to-track association may be ambiguous.
+testvedio,181,7.2,78,overlap_detected,Other track: 97. Overlapping person boxes; IoU=0.152. Face-to-track association may be ambiguous.
+testvedio,181,7.2,97,overlap_detected,Other track: 78. Overlapping person boxes; IoU=0.152. Face-to-track association may be ambiguous.
+testvedio,183,7.28,4,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.222. Face-to-track association may be ambiguous.
+testvedio,183,7.28,11,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.222. Face-to-track association may be ambiguous.
+testvedio,185,7.36,65,overlap_detected,Other track: 78. Overlapping person boxes; IoU=0.152. Face-to-track association may be ambiguous.
+testvedio,185,7.36,78,overlap_detected,Other track: 65. Overlapping person boxes; IoU=0.152. Face-to-track association may be ambiguous.
+testvedio,189,7.52,89,track_lost,No detection for 15 consecutive frames.
+testvedio,189,7.52,89,possible_exit_from_border,Track was last seen near a video border; exit is not confirmed.
+testvedio,194,7.72,3,overlap_detected,Other track: 95. Overlapping person boxes; IoU=0.106. Face-to-track association may be ambiguous.
+testvedio,194,7.72,95,overlap_detected,Other track: 3. Overlapping person boxes; IoU=0.106. Face-to-track association may be ambiguous.
+testvedio,197,7.84,2,track_lost,No detection for 15 consecutive frames.
+testvedio,198,7.88,4,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.215. Face-to-track association may be ambiguous.
+testvedio,198,7.88,11,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.215. Face-to-track association may be ambiguous.
+testvedio,199,7.92,52,overlap_detected,Other track: 65. Overlapping person boxes; IoU=0.106. Face-to-track association may be ambiguous.
+testvedio,199,7.92,65,overlap_detected,Other track: 52. Overlapping person boxes; IoU=0.106. Face-to-track association may be ambiguous.
+testvedio,201,8.0,8,overlap_detected,Other track: 29. Overlapping person boxes; IoU=0.107. Face-to-track association may be ambiguous.
+testvedio,201,8.0,29,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.107. Face-to-track association may be ambiguous.
+testvedio,204,8.12,97,track_lost,No detection for 15 consecutive frames.
+testvedio,206,8.2,102,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,206,8.2,102,possible_entry_from_border,Track first appeared near a video border.
+testvedio,206,8.2,83,track_lost,No detection for 15 consecutive frames.
+testvedio,206,8.2,11,overlap_detected,Other track: 102. Overlapping person boxes; IoU=0.176. Face-to-track association may be ambiguous.
+testvedio,206,8.2,102,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.176. Face-to-track association may be ambiguous.
+testvedio,208,8.28,104,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,208,8.28,105,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,208,8.28,2,track_reappeared_after_gap,Track returned after 25 missing frames.
+testvedio,208,8.28,3,overlap_detected,Other track: 105. Overlapping person boxes; IoU=0.113. Face-to-track association may be ambiguous.
+testvedio,208,8.28,105,overlap_detected,Other track: 3. Overlapping person boxes; IoU=0.113. Face-to-track association may be ambiguous.
+testvedio,208,8.28,8,overlap_detected,Other track: 2. Overlapping person boxes; IoU=0.140. Face-to-track association may be ambiguous.
+testvedio,208,8.28,2,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.140. Face-to-track association may be ambiguous.
+testvedio,208,8.28,29,overlap_detected,Other track: 2. Overlapping person boxes; IoU=0.738. Face-to-track association may be ambiguous.
+testvedio,208,8.28,2,overlap_detected,Other track: 29. Overlapping person boxes; IoU=0.738. Face-to-track association may be ambiguous.
+testvedio,208,8.28,95,overlap_detected,Other track: 104. Overlapping person boxes; IoU=0.716. Face-to-track association may be ambiguous.
+testvedio,208,8.28,104,overlap_detected,Other track: 95. Overlapping person boxes; IoU=0.716. Face-to-track association may be ambiguous.
+testvedio,208,8.28,95,overlap_detected,Other track: 105. Overlapping person boxes; IoU=0.378. Face-to-track association may be ambiguous.
+testvedio,208,8.28,105,overlap_detected,Other track: 95. Overlapping person boxes; IoU=0.378. Face-to-track association may be ambiguous.
+testvedio,208,8.28,104,overlap_detected,Other track: 105. Overlapping person boxes; IoU=0.198. Face-to-track association may be ambiguous.
+testvedio,208,8.28,105,overlap_detected,Other track: 104. Overlapping person boxes; IoU=0.198. Face-to-track association may be ambiguous.
+testvedio,211,8.4,29,overlap_detected,Other track: 104. Overlapping person boxes; IoU=0.145. Face-to-track association may be ambiguous.
+testvedio,211,8.4,104,overlap_detected,Other track: 29. Overlapping person boxes; IoU=0.145. Face-to-track association may be ambiguous.
+testvedio,213,8.48,4,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.203. Face-to-track association may be ambiguous.
+testvedio,213,8.48,11,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.203. Face-to-track association may be ambiguous.
+testvedio,215,8.56,4,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.109. Face-to-track association may be ambiguous.
+testvedio,215,8.56,8,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.109. Face-to-track association may be ambiguous.
+testvedio,216,8.6,108,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,216,8.6,29,overlap_detected,Other track: 108. Overlapping person boxes; IoU=0.646. Face-to-track association may be ambiguous.
+testvedio,216,8.6,108,overlap_detected,Other track: 29. Overlapping person boxes; IoU=0.646. Face-to-track association may be ambiguous.
+testvedio,216,8.6,95,overlap_detected,Other track: 108. Overlapping person boxes; IoU=0.180. Face-to-track association may be ambiguous.
+testvedio,216,8.6,108,overlap_detected,Other track: 95. Overlapping person boxes; IoU=0.180. Face-to-track association may be ambiguous.
+testvedio,217,8.64,29,overlap_detected,Other track: 95. Overlapping person boxes; IoU=0.125. Face-to-track association may be ambiguous.
+testvedio,217,8.64,95,overlap_detected,Other track: 29. Overlapping person boxes; IoU=0.125. Face-to-track association may be ambiguous.
+testvedio,218,8.68,109,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,218,8.68,3,overlap_detected,Other track: 109. Overlapping person boxes; IoU=0.196. Face-to-track association may be ambiguous.
+testvedio,218,8.68,109,overlap_detected,Other track: 3. Overlapping person boxes; IoU=0.196. Face-to-track association may be ambiguous.
+testvedio,219,8.72,65,track_lost,No detection for 15 consecutive frames.
+testvedio,221,8.8,111,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,221,8.8,111,possible_entry_from_border,Track first appeared near a video border.
+testvedio,221,8.8,11,overlap_detected,Other track: 102. Overlapping person boxes; IoU=0.164. Face-to-track association may be ambiguous.
+testvedio,221,8.8,102,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.164. Face-to-track association may be ambiguous.
+testvedio,221,8.8,52,overlap_detected,Other track: 111. Overlapping person boxes; IoU=0.257. Face-to-track association may be ambiguous.
+testvedio,221,8.8,111,overlap_detected,Other track: 52. Overlapping person boxes; IoU=0.257. Face-to-track association may be ambiguous.
+testvedio,222,8.84,2,overlap_detected,Other track: 95. Overlapping person boxes; IoU=0.115. Face-to-track association may be ambiguous.
+testvedio,222,8.84,95,overlap_detected,Other track: 2. Overlapping person boxes; IoU=0.115. Face-to-track association may be ambiguous.
+testvedio,223,8.88,8,overlap_detected,Other track: 2. Overlapping person boxes; IoU=0.129. Face-to-track association may be ambiguous.
+testvedio,223,8.88,2,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.129. Face-to-track association may be ambiguous.
+testvedio,227,9.04,105,track_reappeared_after_short_gap,Track returned after 13 missing frames.
+testvedio,227,9.04,95,overlap_detected,Other track: 105. Overlapping person boxes; IoU=0.225. Face-to-track association may be ambiguous.
+testvedio,227,9.04,105,overlap_detected,Other track: 95. Overlapping person boxes; IoU=0.225. Face-to-track association may be ambiguous.
+testvedio,228,9.08,4,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.224. Face-to-track association may be ambiguous.
+testvedio,228,9.08,11,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.224. Face-to-track association may be ambiguous.
+testvedio,228,9.08,8,overlap_detected,Other track: 95. Overlapping person boxes; IoU=0.105. Face-to-track association may be ambiguous.
+testvedio,228,9.08,95,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.105. Face-to-track association may be ambiguous.
+testvedio,230,9.16,104,track_lost,No detection for 15 consecutive frames.
+testvedio,231,9.2,108,track_reappeared_after_short_gap,Track returned after 14 missing frames.
+testvedio,231,9.2,95,overlap_detected,Other track: 108. Overlapping person boxes; IoU=0.539. Face-to-track association may be ambiguous.
+testvedio,231,9.2,108,overlap_detected,Other track: 95. Overlapping person boxes; IoU=0.539. Face-to-track association may be ambiguous.
+testvedio,232,9.24,104,track_reappeared_after_gap,Track returned after 16 missing frames.
+testvedio,232,9.24,8,overlap_detected,Other track: 104. Overlapping person boxes; IoU=0.211. Face-to-track association may be ambiguous.
+testvedio,232,9.24,104,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.211. Face-to-track association may be ambiguous.
+testvedio,232,9.24,95,overlap_detected,Other track: 104. Overlapping person boxes; IoU=0.594. Face-to-track association may be ambiguous.
+testvedio,232,9.24,104,overlap_detected,Other track: 95. Overlapping person boxes; IoU=0.594. Face-to-track association may be ambiguous.
+testvedio,232,9.24,108,overlap_detected,Other track: 104. Overlapping person boxes; IoU=0.234. Face-to-track association may be ambiguous.
+testvedio,232,9.24,104,overlap_detected,Other track: 108. Overlapping person boxes; IoU=0.234. Face-to-track association may be ambiguous.
+testvedio,233,9.28,111,track_reappeared_after_short_gap,Track returned after 5 missing frames.
+testvedio,234,9.32,29,track_lost,No detection for 15 consecutive frames.
+testvedio,234,9.32,109,overlap_detected,Other track: 108. Overlapping person boxes; IoU=0.110. Face-to-track association may be ambiguous.
+testvedio,234,9.32,108,overlap_detected,Other track: 109. Overlapping person boxes; IoU=0.110. Face-to-track association may be ambiguous.
+testvedio,236,9.4,11,overlap_detected,Other track: 102. Overlapping person boxes; IoU=0.172. Face-to-track association may be ambiguous.
+testvedio,236,9.4,102,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.172. Face-to-track association may be ambiguous.
+testvedio,236,9.4,52,overlap_detected,Other track: 111. Overlapping person boxes; IoU=0.200. Face-to-track association may be ambiguous.
+testvedio,236,9.4,111,overlap_detected,Other track: 52. Overlapping person boxes; IoU=0.200. Face-to-track association may be ambiguous.
+testvedio,238,9.48,52,overlap_detected,Other track: 78. Overlapping person boxes; IoU=0.105. Face-to-track association may be ambiguous.
+testvedio,238,9.48,78,overlap_detected,Other track: 52. Overlapping person boxes; IoU=0.105. Face-to-track association may be ambiguous.
+testvedio,239,9.52,2,track_lost,No detection for 15 consecutive frames.
+testvedio,240,9.56,8,overlap_detected,Other track: 108. Overlapping person boxes; IoU=0.113. Face-to-track association may be ambiguous.
+testvedio,240,9.56,108,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.113. Face-to-track association may be ambiguous.
+testvedio,242,9.64,104,track_reappeared_after_short_gap,Track returned after 6 missing frames.
+testvedio,243,9.68,121,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,243,9.68,4,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.225. Face-to-track association may be ambiguous.
+testvedio,243,9.68,11,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.225. Face-to-track association may be ambiguous.
+testvedio,243,9.68,8,overlap_detected,Other track: 121. Overlapping person boxes; IoU=0.437. Face-to-track association may be ambiguous.
+testvedio,243,9.68,121,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.437. Face-to-track association may be ambiguous.
+testvedio,243,9.68,121,overlap_detected,Other track: 104. Overlapping person boxes; IoU=0.168. Face-to-track association may be ambiguous.
+testvedio,243,9.68,104,overlap_detected,Other track: 121. Overlapping person boxes; IoU=0.168. Face-to-track association may be ambiguous.
+testvedio,244,9.72,4,overlap_detected,Other track: 121. Overlapping person boxes; IoU=0.115. Face-to-track association may be ambiguous.
+testvedio,244,9.72,121,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.115. Face-to-track association may be ambiguous.
+testvedio,245,9.76,105,track_lost,No detection for 15 consecutive frames.
+testvedio,247,9.84,95,track_lost,No detection for 15 consecutive frames.
+testvedio,247,9.84,4,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.105. Face-to-track association may be ambiguous.
+testvedio,247,9.84,8,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.105. Face-to-track association may be ambiguous.
+testvedio,247,9.84,8,overlap_detected,Other track: 104. Overlapping person boxes; IoU=0.578. Face-to-track association may be ambiguous.
+testvedio,247,9.84,104,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.578. Face-to-track association may be ambiguous.
+testvedio,247,9.84,108,overlap_detected,Other track: 104. Overlapping person boxes; IoU=0.263. Face-to-track association may be ambiguous.
+testvedio,247,9.84,104,overlap_detected,Other track: 108. Overlapping person boxes; IoU=0.263. Face-to-track association may be ambiguous.
+testvedio,251,10.0,11,overlap_detected,Other track: 102. Overlapping person boxes; IoU=0.163. Face-to-track association may be ambiguous.
+testvedio,251,10.0,102,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.163. Face-to-track association may be ambiguous.
+testvedio,253,10.08,52,overlap_detected,Other track: 78. Overlapping person boxes; IoU=0.130. Face-to-track association may be ambiguous.
+testvedio,253,10.08,78,overlap_detected,Other track: 52. Overlapping person boxes; IoU=0.130. Face-to-track association may be ambiguous.
+testvedio,255,10.16,123,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,255,10.16,123,possible_entry_from_border,Track first appeared near a video border.
+testvedio,255,10.16,8,overlap_detected,Other track: 108. Overlapping person boxes; IoU=0.265. Face-to-track association may be ambiguous.
+testvedio,255,10.16,108,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.265. Face-to-track association may be ambiguous.
+testvedio,255,10.16,52,overlap_detected,Other track: 123. Overlapping person boxes; IoU=0.151. Face-to-track association may be ambiguous.
+testvedio,255,10.16,123,overlap_detected,Other track: 52. Overlapping person boxes; IoU=0.151. Face-to-track association may be ambiguous.
+testvedio,255,10.16,109,overlap_detected,Other track: 108. Overlapping person boxes; IoU=0.123. Face-to-track association may be ambiguous.
+testvedio,255,10.16,108,overlap_detected,Other track: 109. Overlapping person boxes; IoU=0.123. Face-to-track association may be ambiguous.
+testvedio,255,10.16,111,overlap_detected,Other track: 123. Overlapping person boxes; IoU=0.339. Face-to-track association may be ambiguous.
+testvedio,255,10.16,123,overlap_detected,Other track: 111. Overlapping person boxes; IoU=0.339. Face-to-track association may be ambiguous.
+testvedio,258,10.28,4,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.147. Face-to-track association may be ambiguous.
+testvedio,258,10.28,11,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.147. Face-to-track association may be ambiguous.
+testvedio,259,10.32,125,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,259,10.32,109,overlap_detected,Other track: 125. Overlapping person boxes; IoU=0.265. Face-to-track association may be ambiguous.
+testvedio,259,10.32,125,overlap_detected,Other track: 109. Overlapping person boxes; IoU=0.265. Face-to-track association may be ambiguous.
+testvedio,262,10.44,104,track_lost,No detection for 15 consecutive frames.
+testvedio,262,10.44,121,track_lost,No detection for 15 consecutive frames.
+testvedio,262,10.44,4,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.137. Face-to-track association may be ambiguous.
+testvedio,262,10.44,8,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.137. Face-to-track association may be ambiguous.
+testvedio,266,10.6,11,overlap_detected,Other track: 102. Overlapping person boxes; IoU=0.116. Face-to-track association may be ambiguous.
+testvedio,266,10.6,102,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.116. Face-to-track association may be ambiguous.
+testvedio,267,10.64,8,overlap_detected,Other track: 109. Overlapping person boxes; IoU=0.105. Face-to-track association may be ambiguous.
+testvedio,267,10.64,109,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.105. Face-to-track association may be ambiguous.
+testvedio,268,10.68,52,overlap_detected,Other track: 78. Overlapping person boxes; IoU=0.229. Face-to-track association may be ambiguous.
+testvedio,268,10.68,78,overlap_detected,Other track: 52. Overlapping person boxes; IoU=0.229. Face-to-track association may be ambiguous.
+testvedio,270,10.76,111,overlap_detected,Other track: 123. Overlapping person boxes; IoU=0.258. Face-to-track association may be ambiguous.
+testvedio,270,10.76,123,overlap_detected,Other track: 111. Overlapping person boxes; IoU=0.258. Face-to-track association may be ambiguous.
+testvedio,273,10.88,4,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.129. Face-to-track association may be ambiguous.
+testvedio,273,10.88,11,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.129. Face-to-track association may be ambiguous.
+testvedio,276,11.0,108,track_lost,No detection for 15 consecutive frames.
+testvedio,277,11.04,4,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.132. Face-to-track association may be ambiguous.
+testvedio,277,11.04,8,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.132. Face-to-track association may be ambiguous.
+testvedio,281,11.2,11,overlap_detected,Other track: 102. Overlapping person boxes; IoU=0.225. Face-to-track association may be ambiguous.
+testvedio,281,11.2,102,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.225. Face-to-track association may be ambiguous.
+testvedio,282,11.24,8,overlap_detected,Other track: 109. Overlapping person boxes; IoU=0.170. Face-to-track association may be ambiguous.
+testvedio,282,11.24,109,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.170. Face-to-track association may be ambiguous.
+testvedio,283,11.28,52,overlap_detected,Other track: 78. Overlapping person boxes; IoU=0.251. Face-to-track association may be ambiguous.
+testvedio,283,11.28,78,overlap_detected,Other track: 52. Overlapping person boxes; IoU=0.251. Face-to-track association may be ambiguous.
+testvedio,284,11.32,130,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,284,11.32,109,overlap_detected,Other track: 130. Overlapping person boxes; IoU=0.425. Face-to-track association may be ambiguous.
+testvedio,284,11.32,130,overlap_detected,Other track: 109. Overlapping person boxes; IoU=0.425. Face-to-track association may be ambiguous.
+testvedio,285,11.36,111,overlap_detected,Other track: 123. Overlapping person boxes; IoU=0.291. Face-to-track association may be ambiguous.
+testvedio,285,11.36,123,overlap_detected,Other track: 111. Overlapping person boxes; IoU=0.291. Face-to-track association may be ambiguous.
+testvedio,288,11.48,4,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.158. Face-to-track association may be ambiguous.
+testvedio,288,11.48,11,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.158. Face-to-track association may be ambiguous.
+testvedio,300,11.96,111,overlap_detected,Other track: 123. Overlapping person boxes; IoU=0.170. Face-to-track association may be ambiguous.
+testvedio,300,11.96,123,overlap_detected,Other track: 111. Overlapping person boxes; IoU=0.170. Face-to-track association may be ambiguous.
+testvedio,303,12.08,4,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.145. Face-to-track association may be ambiguous.
+testvedio,303,12.08,11,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.145. Face-to-track association may be ambiguous.
+testvedio,305,12.16,4,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.100. Face-to-track association may be ambiguous.
+testvedio,305,12.16,8,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.100. Face-to-track association may be ambiguous.
+testvedio,307,12.24,78,track_lost,No detection for 15 consecutive frames.
+testvedio,307,12.24,78,possible_exit_from_border,Track was last seen near a video border; exit is not confirmed.
+testvedio,308,12.28,109,track_lost,No detection for 15 consecutive frames.
+testvedio,315,12.56,111,overlap_detected,Other track: 123. Overlapping person boxes; IoU=0.157. Face-to-track association may be ambiguous.
+testvedio,315,12.56,123,overlap_detected,Other track: 111. Overlapping person boxes; IoU=0.157. Face-to-track association may be ambiguous.
+testvedio,318,12.68,4,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.125. Face-to-track association may be ambiguous.
+testvedio,318,12.68,11,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.125. Face-to-track association may be ambiguous.
+testvedio,319,12.72,140,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,319,12.72,140,possible_entry_from_border,Track first appeared near a video border.
+testvedio,319,12.72,123,overlap_detected,Other track: 140. Overlapping person boxes; IoU=0.362. Face-to-track association may be ambiguous.
+testvedio,319,12.72,140,overlap_detected,Other track: 123. Overlapping person boxes; IoU=0.362. Face-to-track association may be ambiguous.
+testvedio,320,12.76,4,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.165. Face-to-track association may be ambiguous.
+testvedio,320,12.76,8,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.165. Face-to-track association may be ambiguous.
+testvedio,331,13.2,142,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,331,13.2,142,possible_entry_from_border,Track first appeared near a video border.
+testvedio,331,13.2,11,overlap_detected,Other track: 142. Overlapping person boxes; IoU=0.194. Face-to-track association may be ambiguous.
+testvedio,331,13.2,142,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.194. Face-to-track association may be ambiguous.
+testvedio,331,13.2,102,overlap_detected,Other track: 142. Overlapping person boxes; IoU=0.380. Face-to-track association may be ambiguous.
+testvedio,331,13.2,142,overlap_detected,Other track: 102. Overlapping person boxes; IoU=0.380. Face-to-track association may be ambiguous.
+testvedio,333,13.28,4,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.164. Face-to-track association may be ambiguous.
+testvedio,333,13.28,11,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.164. Face-to-track association may be ambiguous.
+testvedio,334,13.32,123,overlap_detected,Other track: 140. Overlapping person boxes; IoU=0.338. Face-to-track association may be ambiguous.
+testvedio,334,13.32,140,overlap_detected,Other track: 123. Overlapping person boxes; IoU=0.338. Face-to-track association may be ambiguous.
+testvedio,335,13.36,4,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.162. Face-to-track association may be ambiguous.
+testvedio,335,13.36,8,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.162. Face-to-track association may be ambiguous.
+testvedio,337,13.44,145,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,337,13.44,145,possible_entry_from_border,Track first appeared near a video border.
+testvedio,337,13.44,52,overlap_detected,Other track: 145. Overlapping person boxes; IoU=0.266. Face-to-track association may be ambiguous.
+testvedio,337,13.44,145,overlap_detected,Other track: 52. Overlapping person boxes; IoU=0.266. Face-to-track association may be ambiguous.
+testvedio,339,13.52,111,track_lost,No detection for 15 consecutive frames.
+testvedio,339,13.52,111,possible_exit_from_border,Track was last seen near a video border; exit is not confirmed.
+testvedio,346,13.8,11,overlap_detected,Other track: 142. Overlapping person boxes; IoU=0.100. Face-to-track association may be ambiguous.
+testvedio,346,13.8,142,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.100. Face-to-track association may be ambiguous.
+testvedio,346,13.8,102,overlap_detected,Other track: 142. Overlapping person boxes; IoU=0.522. Face-to-track association may be ambiguous.
+testvedio,346,13.8,142,overlap_detected,Other track: 102. Overlapping person boxes; IoU=0.522. Face-to-track association may be ambiguous.
+testvedio,348,13.88,4,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.206. Face-to-track association may be ambiguous.
+testvedio,348,13.88,11,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.206. Face-to-track association may be ambiguous.
+testvedio,349,13.92,123,overlap_detected,Other track: 140. Overlapping person boxes; IoU=0.421. Face-to-track association may be ambiguous.
+testvedio,349,13.92,140,overlap_detected,Other track: 123. Overlapping person boxes; IoU=0.421. Face-to-track association may be ambiguous.
+testvedio,350,13.96,4,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.126. Face-to-track association may be ambiguous.
+testvedio,350,13.96,8,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.126. Face-to-track association may be ambiguous.
+testvedio,352,14.04,52,overlap_detected,Other track: 145. Overlapping person boxes; IoU=0.212. Face-to-track association may be ambiguous.
+testvedio,352,14.04,145,overlap_detected,Other track: 52. Overlapping person boxes; IoU=0.212. Face-to-track association may be ambiguous.
+testvedio,361,14.4,102,overlap_detected,Other track: 142. Overlapping person boxes; IoU=0.450. Face-to-track association may be ambiguous.
+testvedio,361,14.4,142,overlap_detected,Other track: 102. Overlapping person boxes; IoU=0.450. Face-to-track association may be ambiguous.
+testvedio,363,14.48,4,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.213. Face-to-track association may be ambiguous.
+testvedio,363,14.48,11,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.213. Face-to-track association may be ambiguous.
+testvedio,364,14.52,123,overlap_detected,Other track: 140. Overlapping person boxes; IoU=0.382. Face-to-track association may be ambiguous.
+testvedio,364,14.52,140,overlap_detected,Other track: 123. Overlapping person boxes; IoU=0.382. Face-to-track association may be ambiguous.
+testvedio,365,14.56,4,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.194. Face-to-track association may be ambiguous.
+testvedio,365,14.56,8,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.194. Face-to-track association may be ambiguous.
+testvedio,367,14.64,3,overlap_detected,Other track: 52. Overlapping person boxes; IoU=0.100. Face-to-track association may be ambiguous.
+testvedio,367,14.64,52,overlap_detected,Other track: 3. Overlapping person boxes; IoU=0.100. Face-to-track association may be ambiguous.
+testvedio,367,14.64,52,overlap_detected,Other track: 145. Overlapping person boxes; IoU=0.104. Face-to-track association may be ambiguous.
+testvedio,367,14.64,145,overlap_detected,Other track: 52. Overlapping person boxes; IoU=0.104. Face-to-track association may be ambiguous.
+testvedio,378,15.08,4,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.177. Face-to-track association may be ambiguous.
+testvedio,378,15.08,11,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.177. Face-to-track association may be ambiguous.
+testvedio,379,15.12,148,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,379,15.12,148,possible_entry_from_border,Track first appeared near a video border.
+testvedio,379,15.12,123,overlap_detected,Other track: 140. Overlapping person boxes; IoU=0.510. Face-to-track association may be ambiguous.
+testvedio,379,15.12,140,overlap_detected,Other track: 123. Overlapping person boxes; IoU=0.510. Face-to-track association may be ambiguous.
+testvedio,379,15.12,123,overlap_detected,Other track: 148. Overlapping person boxes; IoU=0.681. Face-to-track association may be ambiguous.
+testvedio,379,15.12,148,overlap_detected,Other track: 123. Overlapping person boxes; IoU=0.681. Face-to-track association may be ambiguous.
+testvedio,379,15.12,140,overlap_detected,Other track: 148. Overlapping person boxes; IoU=0.268. Face-to-track association may be ambiguous.
+testvedio,379,15.12,148,overlap_detected,Other track: 140. Overlapping person boxes; IoU=0.268. Face-to-track association may be ambiguous.
+testvedio,380,15.16,4,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.179. Face-to-track association may be ambiguous.
+testvedio,380,15.16,8,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.179. Face-to-track association may be ambiguous.
+testvedio,382,15.24,102,track_lost,No detection for 15 consecutive frames.
+testvedio,382,15.24,102,possible_exit_from_border,Track was last seen near a video border; exit is not confirmed.
+testvedio,382,15.24,3,overlap_detected,Other track: 52. Overlapping person boxes; IoU=0.111. Face-to-track association may be ambiguous.
+testvedio,382,15.24,52,overlap_detected,Other track: 3. Overlapping person boxes; IoU=0.111. Face-to-track association may be ambiguous.
+testvedio,382,15.24,52,overlap_detected,Other track: 145. Overlapping person boxes; IoU=0.138. Face-to-track association may be ambiguous.
+testvedio,382,15.24,145,overlap_detected,Other track: 52. Overlapping person boxes; IoU=0.138. Face-to-track association may be ambiguous.
+testvedio,384,15.32,125,overlap_detected,Other track: 130. Overlapping person boxes; IoU=0.108. Face-to-track association may be ambiguous.
+testvedio,384,15.32,130,overlap_detected,Other track: 125. Overlapping person boxes; IoU=0.108. Face-to-track association may be ambiguous.
+testvedio,393,15.68,4,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.199. Face-to-track association may be ambiguous.
+testvedio,393,15.68,11,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.199. Face-to-track association may be ambiguous.
+testvedio,394,15.72,123,overlap_detected,Other track: 140. Overlapping person boxes; IoU=0.581. Face-to-track association may be ambiguous.
+testvedio,394,15.72,140,overlap_detected,Other track: 123. Overlapping person boxes; IoU=0.581. Face-to-track association may be ambiguous.
+testvedio,395,15.76,4,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.193. Face-to-track association may be ambiguous.
+testvedio,395,15.76,8,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.193. Face-to-track association may be ambiguous.
+testvedio,397,15.84,3,overlap_detected,Other track: 52. Overlapping person boxes; IoU=0.141. Face-to-track association may be ambiguous.
+testvedio,397,15.84,52,overlap_detected,Other track: 3. Overlapping person boxes; IoU=0.141. Face-to-track association may be ambiguous.
+testvedio,398,15.88,148,track_reappeared_after_short_gap,Track returned after 14 missing frames.
+testvedio,398,15.88,123,overlap_detected,Other track: 148. Overlapping person boxes; IoU=0.543. Face-to-track association may be ambiguous.
+testvedio,398,15.88,148,overlap_detected,Other track: 123. Overlapping person boxes; IoU=0.543. Face-to-track association may be ambiguous.
+testvedio,398,15.88,140,overlap_detected,Other track: 148. Overlapping person boxes; IoU=0.575. Face-to-track association may be ambiguous.
+testvedio,398,15.88,148,overlap_detected,Other track: 140. Overlapping person boxes; IoU=0.575. Face-to-track association may be ambiguous.
+testvedio,399,15.92,125,overlap_detected,Other track: 130. Overlapping person boxes; IoU=0.110. Face-to-track association may be ambiguous.
+testvedio,399,15.92,130,overlap_detected,Other track: 125. Overlapping person boxes; IoU=0.110. Face-to-track association may be ambiguous.
+testvedio,404,16.12,145,overlap_detected,Other track: 123. Overlapping person boxes; IoU=0.128. Face-to-track association may be ambiguous.
+testvedio,404,16.12,123,overlap_detected,Other track: 145. Overlapping person boxes; IoU=0.128. Face-to-track association may be ambiguous.
+testvedio,408,16.28,4,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.175. Face-to-track association may be ambiguous.
+testvedio,408,16.28,11,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.175. Face-to-track association may be ambiguous.
+testvedio,409,16.32,140,overlap_detected,Other track: 145. Overlapping person boxes; IoU=0.107. Face-to-track association may be ambiguous.
+testvedio,409,16.32,145,overlap_detected,Other track: 140. Overlapping person boxes; IoU=0.107. Face-to-track association may be ambiguous.
+testvedio,410,16.36,4,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.159. Face-to-track association may be ambiguous.
+testvedio,410,16.36,8,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.159. Face-to-track association may be ambiguous.
+testvedio,412,16.44,3,overlap_detected,Other track: 52. Overlapping person boxes; IoU=0.229. Face-to-track association may be ambiguous.
+testvedio,412,16.44,52,overlap_detected,Other track: 3. Overlapping person boxes; IoU=0.229. Face-to-track association may be ambiguous.
+testvedio,413,16.48,140,overlap_detected,Other track: 148. Overlapping person boxes; IoU=0.285. Face-to-track association may be ambiguous.
+testvedio,413,16.48,148,overlap_detected,Other track: 140. Overlapping person boxes; IoU=0.285. Face-to-track association may be ambiguous.
+testvedio,414,16.52,125,overlap_detected,Other track: 130. Overlapping person boxes; IoU=0.150. Face-to-track association may be ambiguous.
+testvedio,414,16.52,130,overlap_detected,Other track: 125. Overlapping person boxes; IoU=0.150. Face-to-track association may be ambiguous.
+testvedio,420,16.76,123,track_lost,No detection for 15 consecutive frames.
+testvedio,420,16.76,123,possible_exit_from_border,Track was last seen near a video border; exit is not confirmed.
+testvedio,421,16.8,160,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,421,16.8,160,possible_entry_from_border,Track first appeared near a video border.
+testvedio,421,16.8,140,overlap_detected,Other track: 160. Overlapping person boxes; IoU=0.338. Face-to-track association may be ambiguous.
+testvedio,421,16.8,160,overlap_detected,Other track: 140. Overlapping person boxes; IoU=0.338. Face-to-track association may be ambiguous.
+testvedio,421,16.8,148,overlap_detected,Other track: 160. Overlapping person boxes; IoU=0.752. Face-to-track association may be ambiguous.
+testvedio,421,16.8,160,overlap_detected,Other track: 148. Overlapping person boxes; IoU=0.752. Face-to-track association may be ambiguous.
+testvedio,423,16.88,4,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.109. Face-to-track association may be ambiguous.
+testvedio,423,16.88,11,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.109. Face-to-track association may be ambiguous.
+testvedio,424,16.92,140,overlap_detected,Other track: 145. Overlapping person boxes; IoU=0.137. Face-to-track association may be ambiguous.
+testvedio,424,16.92,145,overlap_detected,Other track: 140. Overlapping person boxes; IoU=0.137. Face-to-track association may be ambiguous.
+testvedio,425,16.96,4,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.206. Face-to-track association may be ambiguous.
+testvedio,425,16.96,8,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.206. Face-to-track association may be ambiguous.
+testvedio,435,17.36,3,track_lost,No detection for 15 consecutive frames.
+testvedio,435,17.36,3,possible_exit_from_border,Track was last seen near a video border; exit is not confirmed.
+testvedio,436,17.4,140,overlap_detected,Other track: 160. Overlapping person boxes; IoU=0.334. Face-to-track association may be ambiguous.
+testvedio,436,17.4,160,overlap_detected,Other track: 140. Overlapping person boxes; IoU=0.334. Face-to-track association may be ambiguous.
+testvedio,439,17.52,140,overlap_detected,Other track: 145. Overlapping person boxes; IoU=0.106. Face-to-track association may be ambiguous.
+testvedio,439,17.52,145,overlap_detected,Other track: 140. Overlapping person boxes; IoU=0.106. Face-to-track association may be ambiguous.
+testvedio,440,17.56,148,track_lost,No detection for 15 consecutive frames.
+testvedio,440,17.56,148,possible_exit_from_border,Track was last seen near a video border; exit is not confirmed.
+testvedio,440,17.56,4,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.281. Face-to-track association may be ambiguous.
+testvedio,440,17.56,8,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.281. Face-to-track association may be ambiguous.
+testvedio,451,18.0,140,overlap_detected,Other track: 160. Overlapping person boxes; IoU=0.460. Face-to-track association may be ambiguous.
+testvedio,451,18.0,160,overlap_detected,Other track: 140. Overlapping person boxes; IoU=0.460. Face-to-track association may be ambiguous.
+testvedio,454,18.12,140,overlap_detected,Other track: 145. Overlapping person boxes; IoU=0.118. Face-to-track association may be ambiguous.
+testvedio,454,18.12,145,overlap_detected,Other track: 140. Overlapping person boxes; IoU=0.118. Face-to-track association may be ambiguous.
+testvedio,455,18.16,4,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.182. Face-to-track association may be ambiguous.
+testvedio,455,18.16,8,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.182. Face-to-track association may be ambiguous.
+testvedio,455,18.16,52,overlap_detected,Other track: 125. Overlapping person boxes; IoU=0.108. Face-to-track association may be ambiguous.
+testvedio,455,18.16,125,overlap_detected,Other track: 52. Overlapping person boxes; IoU=0.108. Face-to-track association may be ambiguous.
+testvedio,457,18.24,174,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,457,18.24,52,overlap_detected,Other track: 174. Overlapping person boxes; IoU=0.112. Face-to-track association may be ambiguous.
+testvedio,457,18.24,174,overlap_detected,Other track: 52. Overlapping person boxes; IoU=0.112. Face-to-track association may be ambiguous.
+testvedio,458,18.28,125,overlap_detected,Other track: 130. Overlapping person boxes; IoU=0.111. Face-to-track association may be ambiguous.
+testvedio,458,18.28,130,overlap_detected,Other track: 125. Overlapping person boxes; IoU=0.111. Face-to-track association may be ambiguous.
+testvedio,467,18.64,177,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,467,18.64,177,possible_entry_from_border,Track first appeared near a video border.
+testvedio,467,18.64,4,overlap_detected,Other track: 177. Overlapping person boxes; IoU=0.230. Face-to-track association may be ambiguous.
+testvedio,467,18.64,177,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.230. Face-to-track association may be ambiguous.
+testvedio,467,18.64,8,overlap_detected,Other track: 177. Overlapping person boxes; IoU=0.744. Face-to-track association may be ambiguous.
+testvedio,467,18.64,177,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.744. Face-to-track association may be ambiguous.
+testvedio,467,18.64,52,overlap_detected,Other track: 130. Overlapping person boxes; IoU=0.108. Face-to-track association may be ambiguous.
+testvedio,467,18.64,130,overlap_detected,Other track: 52. Overlapping person boxes; IoU=0.108. Face-to-track association may be ambiguous.
+testvedio,468,18.68,160,track_reappeared_after_short_gap,Track returned after 6 missing frames.
+testvedio,468,18.68,140,overlap_detected,Other track: 160. Overlapping person boxes; IoU=0.252. Face-to-track association may be ambiguous.
+testvedio,468,18.68,160,overlap_detected,Other track: 140. Overlapping person boxes; IoU=0.252. Face-to-track association may be ambiguous.
+testvedio,469,18.72,140,overlap_detected,Other track: 145. Overlapping person boxes; IoU=0.143. Face-to-track association may be ambiguous.
+testvedio,469,18.72,145,overlap_detected,Other track: 140. Overlapping person boxes; IoU=0.143. Face-to-track association may be ambiguous.
+testvedio,470,18.76,4,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.188. Face-to-track association may be ambiguous.
+testvedio,470,18.76,8,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.188. Face-to-track association may be ambiguous.
+testvedio,473,18.88,125,track_lost,No detection for 15 consecutive frames.
+testvedio,476,19.0,180,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,476,19.0,145,overlap_detected,Other track: 180. Overlapping person boxes; IoU=0.175. Face-to-track association may be ambiguous.
+testvedio,476,19.0,180,overlap_detected,Other track: 145. Overlapping person boxes; IoU=0.175. Face-to-track association may be ambiguous.
+testvedio,476,19.0,174,overlap_detected,Other track: 180. Overlapping person boxes; IoU=0.532. Face-to-track association may be ambiguous.
+testvedio,476,19.0,180,overlap_detected,Other track: 174. Overlapping person boxes; IoU=0.532. Face-to-track association may be ambiguous.
+testvedio,483,19.28,140,overlap_detected,Other track: 160. Overlapping person boxes; IoU=0.223. Face-to-track association may be ambiguous.
+testvedio,483,19.28,160,overlap_detected,Other track: 140. Overlapping person boxes; IoU=0.223. Face-to-track association may be ambiguous.
+testvedio,484,19.32,140,overlap_detected,Other track: 145. Overlapping person boxes; IoU=0.167. Face-to-track association may be ambiguous.
+testvedio,484,19.32,145,overlap_detected,Other track: 140. Overlapping person boxes; IoU=0.167. Face-to-track association may be ambiguous.
+testvedio,485,19.36,4,overlap_detected,Other track: 8. Overlapping person boxes; IoU=0.366. Face-to-track association may be ambiguous.
+testvedio,485,19.36,8,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.366. Face-to-track association may be ambiguous.
+testvedio,491,19.6,182,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,491,19.6,130,track_lost,No detection for 15 consecutive frames.
+testvedio,491,19.6,177,track_lost,No detection for 15 consecutive frames.
+testvedio,491,19.6,177,possible_exit_from_border,Track was last seen near a video border; exit is not confirmed.
+testvedio,491,19.6,52,overlap_detected,Other track: 182. Overlapping person boxes; IoU=0.127. Face-to-track association may be ambiguous.
+testvedio,491,19.6,182,overlap_detected,Other track: 52. Overlapping person boxes; IoU=0.127. Face-to-track association may be ambiguous.
+testvedio,494,19.72,180,track_lost,No detection for 15 consecutive frames.
+testvedio,499,19.92,140,overlap_detected,Other track: 145. Overlapping person boxes; IoU=0.129. Face-to-track association may be ambiguous.
+testvedio,499,19.92,145,overlap_detected,Other track: 140. Overlapping person boxes; IoU=0.129. Face-to-track association may be ambiguous.
+testvedio,500,19.96,160,track_lost,No detection for 15 consecutive frames.
+testvedio,500,19.96,160,possible_exit_from_border,Track was last seen near a video border; exit is not confirmed.
+testvedio,501,20.0,8,track_lost,No detection for 15 consecutive frames.
+testvedio,501,20.0,8,possible_exit_from_border,Track was last seen near a video border; exit is not confirmed.
+testvedio,501,20.0,4,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.101. Face-to-track association may be ambiguous.
+testvedio,501,20.0,11,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.101. Face-to-track association may be ambiguous.
+testvedio,502,20.04,174,overlap_detected,Other track: 182. Overlapping person boxes; IoU=0.135. Face-to-track association may be ambiguous.
+testvedio,502,20.04,182,overlap_detected,Other track: 174. Overlapping person boxes; IoU=0.135. Face-to-track association may be ambiguous.
+testvedio,508,20.28,185,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,508,20.28,52,overlap_detected,Other track: 185. Overlapping person boxes; IoU=0.157. Face-to-track association may be ambiguous.
+testvedio,508,20.28,185,overlap_detected,Other track: 52. Overlapping person boxes; IoU=0.157. Face-to-track association may be ambiguous.
+testvedio,509,20.32,186,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,509,20.32,186,possible_entry_from_border,Track first appeared near a video border.
+testvedio,509,20.32,182,overlap_detected,Other track: 185. Overlapping person boxes; IoU=0.102. Face-to-track association may be ambiguous.
+testvedio,509,20.32,185,overlap_detected,Other track: 182. Overlapping person boxes; IoU=0.102. Face-to-track association may be ambiguous.
+testvedio,512,20.44,11,overlap_detected,Other track: 186. Overlapping person boxes; IoU=0.111. Face-to-track association may be ambiguous.
+testvedio,512,20.44,186,overlap_detected,Other track: 11. Overlapping person boxes; IoU=0.111. Face-to-track association may be ambiguous.
+testvedio,513,20.48,142,overlap_detected,Other track: 186. Overlapping person boxes; IoU=0.104. Face-to-track association may be ambiguous.
+testvedio,513,20.48,186,overlap_detected,Other track: 142. Overlapping person boxes; IoU=0.104. Face-to-track association may be ambiguous.
+testvedio,514,20.52,140,overlap_detected,Other track: 145. Overlapping person boxes; IoU=0.136. Face-to-track association may be ambiguous.
+testvedio,514,20.52,145,overlap_detected,Other track: 140. Overlapping person boxes; IoU=0.136. Face-to-track association may be ambiguous.
+testvedio,518,20.68,190,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,518,20.68,145,overlap_detected,Other track: 190. Overlapping person boxes; IoU=0.247. Face-to-track association may be ambiguous.
+testvedio,518,20.68,190,overlap_detected,Other track: 145. Overlapping person boxes; IoU=0.247. Face-to-track association may be ambiguous.
+testvedio,518,20.68,182,overlap_detected,Other track: 190. Overlapping person boxes; IoU=0.151. Face-to-track association may be ambiguous.
+testvedio,518,20.68,190,overlap_detected,Other track: 182. Overlapping person boxes; IoU=0.151. Face-to-track association may be ambiguous.
+testvedio,522,20.84,174,track_lost,No detection for 15 consecutive frames.
+testvedio,524,20.92,174,track_reappeared_after_gap,Track returned after 16 missing frames.
+testvedio,524,20.92,190,overlap_detected,Other track: 174. Overlapping person boxes; IoU=0.186. Face-to-track association may be ambiguous.
+testvedio,524,20.92,174,overlap_detected,Other track: 190. Overlapping person boxes; IoU=0.186. Face-to-track association may be ambiguous.
+testvedio,529,21.12,140,overlap_detected,Other track: 145. Overlapping person boxes; IoU=0.194. Face-to-track association may be ambiguous.
+testvedio,529,21.12,145,overlap_detected,Other track: 140. Overlapping person boxes; IoU=0.194. Face-to-track association may be ambiguous.
+testvedio,534,21.32,190,track_reappeared_after_short_gap,Track returned after 6 missing frames.
+testvedio,534,21.32,145,overlap_detected,Other track: 190. Overlapping person boxes; IoU=0.265. Face-to-track association may be ambiguous.
+testvedio,534,21.32,190,overlap_detected,Other track: 145. Overlapping person boxes; IoU=0.265. Face-to-track association may be ambiguous.
+testvedio,534,21.32,185,overlap_detected,Other track: 174. Overlapping person boxes; IoU=0.190. Face-to-track association may be ambiguous.
+testvedio,534,21.32,174,overlap_detected,Other track: 185. Overlapping person boxes; IoU=0.190. Face-to-track association may be ambiguous.
+testvedio,535,21.36,193,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,535,21.36,185,overlap_detected,Other track: 193. Overlapping person boxes; IoU=0.161. Face-to-track association may be ambiguous.
+testvedio,535,21.36,193,overlap_detected,Other track: 185. Overlapping person boxes; IoU=0.161. Face-to-track association may be ambiguous.
+testvedio,537,21.44,186,track_lost,No detection for 15 consecutive frames.
+testvedio,537,21.44,186,possible_exit_from_border,Track was last seen near a video border; exit is not confirmed.
+testvedio,538,21.48,182,track_lost,No detection for 15 consecutive frames.
+testvedio,544,21.72,140,overlap_detected,Other track: 145. Overlapping person boxes; IoU=0.224. Face-to-track association may be ambiguous.
+testvedio,544,21.72,145,overlap_detected,Other track: 140. Overlapping person boxes; IoU=0.224. Face-to-track association may be ambiguous.
+testvedio,545,21.76,185,overlap_detected,Other track: 190. Overlapping person boxes; IoU=0.107. Face-to-track association may be ambiguous.
+testvedio,545,21.76,190,overlap_detected,Other track: 185. Overlapping person boxes; IoU=0.107. Face-to-track association may be ambiguous.
+testvedio,549,21.92,145,overlap_detected,Other track: 190. Overlapping person boxes; IoU=0.257. Face-to-track association may be ambiguous.
+testvedio,549,21.92,190,overlap_detected,Other track: 145. Overlapping person boxes; IoU=0.257. Face-to-track association may be ambiguous.
+testvedio,552,22.04,174,track_lost,No detection for 15 consecutive frames.
+testvedio,559,22.32,140,overlap_detected,Other track: 145. Overlapping person boxes; IoU=0.124. Face-to-track association may be ambiguous.
+testvedio,559,22.32,145,overlap_detected,Other track: 140. Overlapping person boxes; IoU=0.124. Face-to-track association may be ambiguous.
+testvedio,562,22.44,190,track_reappeared_after_short_gap,Track returned after 5 missing frames.
+testvedio,562,22.44,185,overlap_detected,Other track: 190. Overlapping person boxes; IoU=0.233. Face-to-track association may be ambiguous.
+testvedio,562,22.44,190,overlap_detected,Other track: 185. Overlapping person boxes; IoU=0.233. Face-to-track association may be ambiguous.
+testvedio,564,22.52,145,overlap_detected,Other track: 190. Overlapping person boxes; IoU=0.269. Face-to-track association may be ambiguous.
+testvedio,564,22.52,190,overlap_detected,Other track: 145. Overlapping person boxes; IoU=0.269. Face-to-track association may be ambiguous.
+testvedio,565,22.56,145,overlap_detected,Other track: 185. Overlapping person boxes; IoU=0.104. Face-to-track association may be ambiguous.
+testvedio,565,22.56,185,overlap_detected,Other track: 145. Overlapping person boxes; IoU=0.104. Face-to-track association may be ambiguous.
+testvedio,569,22.72,200,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,569,22.72,200,possible_entry_from_border,Track first appeared near a video border.
+testvedio,569,22.72,140,track_reappeared_after_short_gap,Track returned after 2 missing frames.
+testvedio,569,22.72,142,overlap_detected,Other track: 200. Overlapping person boxes; IoU=0.406. Face-to-track association may be ambiguous.
+testvedio,569,22.72,200,overlap_detected,Other track: 142. Overlapping person boxes; IoU=0.406. Face-to-track association may be ambiguous.
+testvedio,576,23.0,205,track_started,New tracking ID detected; not a verified real-world identity.
+testvedio,576,23.0,205,possible_entry_from_border,Track first appeared near a video border.
+testvedio,576,23.0,142,overlap_detected,Other track: 205. Overlapping person boxes; IoU=0.416. Face-to-track association may be ambiguous.
+testvedio,576,23.0,205,overlap_detected,Other track: 142. Overlapping person boxes; IoU=0.416. Face-to-track association may be ambiguous.
+testvedio,579,23.12,145,overlap_detected,Other track: 190. Overlapping person boxes; IoU=0.275. Face-to-track association may be ambiguous.
+testvedio,579,23.12,190,overlap_detected,Other track: 145. Overlapping person boxes; IoU=0.275. Face-to-track association may be ambiguous.
+testvedio,580,23.16,200,overlap_detected,Other track: 205. Overlapping person boxes; IoU=0.103. Face-to-track association may be ambiguous.
+testvedio,580,23.16,205,overlap_detected,Other track: 200. Overlapping person boxes; IoU=0.103. Face-to-track association may be ambiguous.
+testvedio,585,23.36,185,track_lost,No detection for 15 consecutive frames.
+testvedio,586,23.4,140,track_lost,No detection for 15 consecutive frames.
+testvedio,586,23.4,140,possible_exit_from_border,Track was last seen near a video border; exit is not confirmed.
+testvedio,588,23.48,142,track_reappeared_after_short_gap,Track returned after 6 missing frames.
+testvedio,588,23.48,200,overlap_detected,Other track: 142. Overlapping person boxes; IoU=0.196. Face-to-track association may be ambiguous.
+testvedio,588,23.48,142,overlap_detected,Other track: 200. Overlapping person boxes; IoU=0.196. Face-to-track association may be ambiguous.
+testvedio,592,23.64,4,overlap_detected,Other track: 52. Overlapping person boxes; IoU=0.104. Face-to-track association may be ambiguous.
+testvedio,592,23.64,52,overlap_detected,Other track: 4. Overlapping person boxes; IoU=0.104. Face-to-track association may be ambiguous.
+testvedio,594,23.72,145,overlap_detected,Other track: 190. Overlapping person boxes; IoU=0.327. Face-to-track association may be ambiguous.
+testvedio,594,23.72,190,overlap_detected,Other track: 145. Overlapping person boxes; IoU=0.327. Face-to-track association may be ambiguous.
+testvedio,602,24.04,205,track_lost,No detection for 15 consecutive frames.
+testvedio,602,24.04,205,possible_exit_from_border,Track was last seen near a video border; exit is not confirmed.
+testvedio,606,24.2,1,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,2,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,3,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,420,16.76,3,last_seen_near_border,Possible exit location; leaving the scene is not confirmed.
+testvedio,606,24.2,4,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,4,last_seen_near_border,Possible exit location; leaving the scene is not confirmed.
+testvedio,606,24.2,5,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,47,1.84,5,last_seen_near_border,Possible exit location; leaving the scene is not confirmed.
+testvedio,606,24.2,6,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,7,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,64,2.52,7,last_seen_near_border,Possible exit location; leaving the scene is not confirmed.
+testvedio,606,24.2,8,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,486,19.4,8,last_seen_near_border,Possible exit location; leaving the scene is not confirmed.
+testvedio,606,24.2,9,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,10,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,11,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,11,last_seen_near_border,Possible exit location; leaving the scene is not confirmed.
+testvedio,606,24.2,12,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,15,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,16,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,26,1.0,16,last_seen_near_border,Possible exit location; leaving the scene is not confirmed.
+testvedio,606,24.2,20,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,21,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,29,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,42,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,52,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,52,last_seen_near_border,Possible exit location; leaving the scene is not confirmed.
+testvedio,606,24.2,56,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,63,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,65,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,78,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,292,11.64,78,last_seen_near_border,Possible exit location; leaving the scene is not confirmed.
+testvedio,606,24.2,79,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,83,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,89,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,174,6.92,89,last_seen_near_border,Possible exit location; leaving the scene is not confirmed.
+testvedio,606,24.2,95,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,97,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,102,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,367,14.64,102,last_seen_near_border,Possible exit location; leaving the scene is not confirmed.
+testvedio,606,24.2,104,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,105,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,108,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,109,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,111,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,324,12.92,111,last_seen_near_border,Possible exit location; leaving the scene is not confirmed.
+testvedio,606,24.2,121,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,123,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,405,16.16,123,last_seen_near_border,Possible exit location; leaving the scene is not confirmed.
+testvedio,606,24.2,125,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,130,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,140,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,571,22.8,140,last_seen_near_border,Possible exit location; leaving the scene is not confirmed.
+testvedio,606,24.2,142,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,600,23.96,142,last_seen_near_border,Possible exit location; leaving the scene is not confirmed.
+testvedio,606,24.2,145,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,145,last_seen_near_border,Possible exit location; leaving the scene is not confirmed.
+testvedio,606,24.2,148,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,425,16.96,148,last_seen_near_border,Possible exit location; leaving the scene is not confirmed.
+testvedio,606,24.2,160,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,485,19.36,160,last_seen_near_border,Possible exit location; leaving the scene is not confirmed.
+testvedio,606,24.2,174,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,177,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,476,19.0,177,last_seen_near_border,Possible exit location; leaving the scene is not confirmed.
+testvedio,606,24.2,180,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,182,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,185,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,186,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,522,20.84,186,last_seen_near_border,Possible exit location; leaving the scene is not confirmed.
+testvedio,606,24.2,190,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,193,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,200,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,606,24.2,200,last_seen_near_border,Possible exit location; leaving the scene is not confirmed.
+testvedio,606,24.2,205,track_ended,Processing ended. This does not prove the person exited the scene.
+testvedio,587,23.44,205,last_seen_near_border,Possible exit location; leaving the scene is not confirmed.
