@@ -1,0 +1,20 @@
+ACTOR GALLERY FACE RECOGNITION - RUN REPORT
+Run time (UTC): 2026-10-28T13:17:13Z
+Registered identities enrolled: 3
+Usable original gallery images: 3
+Augmented gallery images saved this run: 18
+Augmented gallery path: D:\CCTV-Based-Smoking-and-Vaping-Detection\actor_gallery_test_package\augmented_gallery
+Registered probe images independently evaluated: 3
+Unregistered images found: 2
+
+RESULT COUNTS:
+- CORRECT_MATCH: 3
+- CORRECT_REJECTION: 2
+- ENROLLED_REFERENCE: 3
+- INSUFFICIENT_QUALITY: 2
+
+Data augmentation was applied to gallery/reference images only.
+Generated copies are not independent test images.
+The SFace neural network is not retrained by this script.
+A reference listed as ENROLLED_REFERENCE is not counted as an independent recognition success.
+Do not upload real face images or personally identifying result files to a public GitHub repository.
